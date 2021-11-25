@@ -1,7 +1,6 @@
 //Initiallising node modules
 const express  = require('express');
 const morgan  = require('morgan');
-const { Prohairesis } = require('prohairesis');
 const bodyParser  = require('body-parser');
 const flash = require('express-flash');
 const session = require('express-session');
